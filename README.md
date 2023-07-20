@@ -7,6 +7,7 @@ exemples de code.
 Liste des articles :
 - [Les bases de la programmation Python : Guide pour 
 débutants](https://python1st.com/index.php/2023/07/19/les-bases-de-la-programmation-python-guide-debutants/)
+
 -[Les concepts avancés de la programmation 
 Python](https://python1st.com/index.php/2023/07/20/concepts-avances-programmation-python-expliques/)
 

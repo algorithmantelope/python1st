@@ -14,6 +14,8 @@ Python](https://python1st.com/index.php/2023/07/20/concepts-avances-programmatio
 - [Guide Complet sur la Gestion des Exceptions en Programmation 
 Python](https://python1st.com/index.php/2023/07/21/guide-complet-sur-la-gestion-des-exceptions-en-programmation-python/)
 
+- [Comment Résoudre un Problème de Programmation Python](https://python1st.com/index.php/2023/07/21/comment-resoudre-un-probleme-de-programmation-python/)
+
 
 N'hésitez pas à explorer les différents répertoires pour accéder aux 
 exemples de code associés à chaque article.
